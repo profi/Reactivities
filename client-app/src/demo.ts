@@ -1,0 +1,1 @@
+const data : number = 42;
